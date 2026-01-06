@@ -47,17 +47,15 @@ The following behaviors are not tolerated:
 ### Reporting Issues
 
 If you experience or witness behavior that violates this Code of Conduct:
-
 Report it confidentially via:
-  - GitHub Issues (if appropriate), or
-  - Direct contact with project maintainers (listed in README / CONTRIBUTING)
-  - Include relevant context, links, or evidence where possible
+- GitHub Issues (if appropriate), or
+- Direct contact with project maintainers (listed in README / CONTRIBUTING)
+- Include relevant context, links, or evidence where possible
 
 ---
 ### Enforcement & Accountability
 
 Project maintainers are responsible for enforcing this Code of Conduct.
-
 Depending on severity and impact, actions may include:
 - Warning : private notice with guidance.
 - Temporary restrictions : limited participation for a defined period.
